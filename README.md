@@ -1,4 +1,5 @@
 # Two Path Finding Algorithms
+## LPA STAR and D STAR LITE
 This repository presents the implementation and evaluation of two path-planning algorithms: Lifelong Planning A* (LPA*) and D* Lite in C++ programming language in an 8-connected grid world. Both algorithms were applied to different grid-based pathfinding problems to compare their performance under dynamic conditions. The aim is to evaluate their efficiency, adaptability, and scalability across different maps and heuristics. This program can execute algorithms using different parameters to record and analyze their performance. Heuristic functions: Euclidean distance and Chebyshev distance. A cross-platform graphics start-up program that is provided is used to plot the optimal path generated and view the details of the variables involved in the computations.
 
 Implementation Overview
